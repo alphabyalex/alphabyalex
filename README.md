@@ -12,7 +12,7 @@ Repo: github.com/alphabyalex/fluxline-hackathon
 
 ## Senthos
 
-1st place at the USC SCBC Hackathon 2026, $7,000 prize, judged by the Solana Foundation. Received a Solana Foundation grant afterward.
+1st place at the USC SCBC Hackathon 2026, $7,000 prize, judged by the Solana Foundation. 
 
 Senthos is a structured products protocol on Solana that tokenizes live prediction market positions. It bundles 100+ Polymarket contracts into tradeable basket tokens with tranched risk slices, so a user can express a view with a clear risk profile instead of picking individual markets one at a time. I led the frontend and product architecture.
 
