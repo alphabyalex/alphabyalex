@@ -22,7 +22,7 @@ Repo: github.com/alphabyalex/Senthos-Demo-Public
 
 A quantitative research tool for evaluating IPOs before they list, using only information available pre-IPO: deal structure and underwriter signals, S-1 financials, and probability based outcome estimates. Covers both upcoming IPOs and a backtest of historical ones going back to 2020.
 
-Live app: alpha-engine-research.com
+Live app: alpha-engine-research.com  
 Repo: github.com/alphabyalex/IPO_Alpha_Engine
 
 ## Contra
