@@ -1,6 +1,6 @@
 # Hi, I'm Alexander
 
-Finance student at USC, building things on the side. Here's a look at what I've worked on.
+Finance student at USC, I love building things. Here's a look at what I've worked on and some of my achievements.
 
 ## Fluxline
 
