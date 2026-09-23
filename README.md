@@ -1,6 +1,6 @@
 # Hi, I'm Alexander
 
-Finance student at USC, I love building things. Here's a look at what I've worked on and some of my achievements.
+Finance student at USC, I love building things and competing. Here's a look at what I've worked on and some of my achievements.
 
 ## Fluxline ($30,000)
 
