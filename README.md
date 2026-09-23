@@ -2,15 +2,15 @@
 
 Finance student at USC, I love building things. Here's a look at what I've worked on and some of my achievements.
 
-## Fluxline
+## Fluxline ($30,000)
 
-1st place, Sustainability Track, and 1 of 3 overall winners at East v West Hackathon 2026, out of 19 teams. Judged by OpenAI, Google, AWS, Anthropic, Sequoia Capital, Lovable, Lightspeed Ventures, and Underscore VC.
+1st place, Sustainability Track, and 1 of 3 overall winners at East v West Hackathon 2026, out of 25 teams. $30,000 prize Judged by OpenAI, Google, AWS, Anthropic, Sequoia Capital, Lovable, Lightspeed Ventures, and Underscore VC.
 
 Fluxline prices the risk of flexible grid interconnection for data centers. It tells a company how often they'd realistically get cut off under a flexible connection, and whether that's actually worth it compared to waiting years for a normal one. Every number is either backed by real public grid data or clearly labeled as an assumption. Built with my team, Optica.
 
 Repo: github.com/alphabyalex/fluxline-hackathon
 
-## Senthos
+## Senthos ($7000)
 
 1st place at the USC SCBC Hackathon 2026, $7,000 prize, judged by the Solana Foundation. 
 
