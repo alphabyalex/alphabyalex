@@ -27,7 +27,7 @@ Repo: github.com/alphabyalex/IPO_Alpha_Engine
 
 ## Contra
 
-1st place, Track 2, of the Artemis Quant Research Competition.
+Highest Rank, Track 2, of the Artemis Quant Research Competition.
 
 Contra is a Solana native prediction market protocol that identifies mispriced longshot bets on Kalshi and Polymarket, where a market priced at 8% might only resolve YES 1.7% of the time, and packages that edge into tradeable baskets with optional leverage.
 
