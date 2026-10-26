@@ -25,7 +25,7 @@ Repo: github.com/alphabyalex/fluxline-hackathon
 
 Senthos is a structured products protocol on Solana that tokenizes live prediction market positions. It bundles 100+ Polymarket contracts into tradeable basket tokens with tranched risk slices, so a user can express a view with a clear risk profile instead of picking individual markets one at a time. I led the frontend and product architecture.
 
-Repo: github.com/alphabyalex/Senthos-Demo-Public
+Repo: https://github.com/LuKresXD/SCBC-Hackathon-2026
 
 ## IPO Alpha Engine
 
