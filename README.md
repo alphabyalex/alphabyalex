@@ -2,6 +2,15 @@
 
 Finance student at USC, I love building things and competing. Here's a look at what I've worked on and some of my achievements.
 
+## Moonshift ($1,500 bounty)
+
+Winner of the Best Use of Quicknode bounty at the XRPL Commons AI & Fintech Hackathon (New York City, October 2026), Lending & Borrowing track. The prize was split between two winners, with a $1,500 prize. Built with Tharun Ekambaram, Lucy Zhang, and Kristian Bridge.
+
+Moonshift lets you own a share of a GPU and borrow against it, on the XRP Ledger. Each GPU is split into shares that trade on the XRPL DEX, and shareholders earn USDC payouts from the compute revenue. Shareholders can lock shares as collateral and borrow USDC from a lending vault, with margin calls and liquidations handled onchain. Risk is priced from a borrower's wallet history, read live through Quicknode, combined with the GPU's real revenue, and Claude on Amazon Bedrock writes a plain-English credit memo checked against the data. Built on XRPL devnet. I directed the build, merged the team's work, ran end-to-end testing, and shipped the production demo in 26 hours.
+
+Live app: moonshift-protocol.vercel.app  
+Repo: github.com/alphabyalex/XRP-Hackathon-2026
+
 ## Fluxline ($30,000)
 
 1st place, Sustainability Track, and 1 of 3 overall winners at East v West Hackathon 2026, out of 19 teams. $30,000 prize Judged by OpenAI, Google, AWS, Anthropic, Sequoia Capital, Lovable, Lightspeed Ventures, and Underscore VC.
