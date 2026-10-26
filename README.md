@@ -2,7 +2,7 @@
 
 Finance student at USC, I love building things and competing. Here's a look at what I've worked on and some of my achievements.
 
-## Moonshift ($1,500 bounty)
+## Moonshift ($1,500)
 
 Winner of the Best Use of Quicknode bounty at the XRPL Commons AI & Fintech Hackathon (New York City, October 2026), Lending & Borrowing track. The prize was split between two winners, with a $1,500 prize. Built with Tharun Ekambaram, Lucy Zhang, and Kristian Bridge.
 
