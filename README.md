@@ -1,6 +1,6 @@
 # Hi, I'm Alexander
 
-Finance student at USC, I love building things and competing. Here's a look at what I've worked on and some of my achievements.
+Finance student at USC, the only real thing I can cook is truffle mac n cheese. I love building things and competing. Here's a look at what I've worked on and some of my achievements.
 
 ## Moonshift ($1,500)
 
